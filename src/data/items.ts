@@ -8,6 +8,7 @@ const items = [
         img: "https://i.ytimg.com/vi/2981dCzdxU8/maxresdefault.jpg",
         desc: "16GB RAM, 256 SSD, 2GB G-force ,10hr Battery Life",
         brand: "New",
+
       },
       {
         title: "Coororsa, Oromo Cultural Food",
